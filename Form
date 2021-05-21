@@ -1,0 +1,11 @@
+<DOCTYPE html>
+<head>
+<title>
+HTML Form
+</title>
+</head>
+<body>
+<h1>HTML Form</h1>
+<method ="Post", action="Form">
+
+</body>
